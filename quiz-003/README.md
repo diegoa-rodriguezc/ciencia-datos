@@ -19,6 +19,8 @@ Adicionalmente, usted sabe que el proceso de compra requiere la inversión de 6 
 
 Este informe presenta el desarrollo de un modelo de Machine Learning para la predicción de precios de venta de apartamentos en Bogotá, Colombia, desarrollado para HabitAlpes. Se describirá cómo funciona el modelo, se determinará su rentabilidad y se ofrecerán insights relevantes que pueden ser utilizados para mejorar la toma de decisiones en la empresa.
 
+El documento se puede consultar en: [quiz-003/docs/QUIZ_003.pdf](https://github.com/diegoa-rodriguezc/ciencia-datos/blob/main/quiz-003/docs/QUIZ_003.pdf)
+
 El desarrollo del modelo de predicción de precios de venta de apartamentos para HabitAlpes ha demostrado ser una herramienta valiosa para optimizar procesos y mejorar la rentabilidad. Además, los insights obtenidos del análisis de datos pueden guiar a la empresa en la toma de decisiones estratégicas para el futuro.
   
 **Dependencias:**  
