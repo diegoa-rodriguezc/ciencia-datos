@@ -17,14 +17,20 @@ Para consultar el documento relacionado con el taller se puede ir a la carpeta d
 El notebook desarrollado se denomina `taller-002.ipynb`
 
 **Dependencias:**  
+
+A continuación, se presentan las dependencias para la ejecución del proyecto:
+
 - `pip install opencv-python`
 - `pip install pillow`
 - `pip install tensorflow`
 - `pip install torch`
 - `pip install pandas`
 - `pip install numpy`
+- `pip install scikit-learn`
+- `pip install matplotlib`
 
 **Estructura del Proyecto:**  
+
 El presente proyecto tiene la siguiente esctructura
 
 ```plaintext
