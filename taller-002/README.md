@@ -35,10 +35,33 @@ El presente proyecto tiene la siguiente esctructura
 
 ```plaintext
 taller-002/
-├── dataset/          # Información, datos de las imágenes utilizadas
-├── doc/              # Documentación del proyecto, archivos PDF
-├── .gitignore        # Archivo para excluir documentos y/o carpetas de Git
-├── README.md         # Descripción del proyecto
-└── taller-002.ipynb  # Archivo ipynb que contiene el código del notebook
+├── dataset/                       # Información, datos de las imágenes utilizadas
+│   ├── iconic-images-and-descriptions/
+│   │   ├── Fruit/
+│   │   ├── Packages/
+│   │   └── Vegetables/
+│   ├── test/
+│   │   ├── Fruit/
+│   │   ├── Packages/
+│   │   └── Vegetables/
+│   ├── train/
+│   │   ├── Fruit/
+│   │   ├── Packages/
+│   │   └── Vegetables/
+│   ├── val/
+│   │   ├── Fruit/
+│   │   ├── Packages/
+│   │   └── Vegetables/
+│   ├── classes.csv
+│   ├── test.txt
+│   ├── train.txt
+│   └── val.txt
+├── doc/                           # Documentación del proyecto, archivos PDF
+│   ├── Taller2.pdf                # Descripción del taller 002
+│   └── Taller_2_Ciencia_Datos.pdf # Documento final referente al taller 002
+├── .gitignore                     # Archivo para excluir documentos y/o carpetas de Git
+├── README.md                      # Descripción del proyecto
+└── taller-002.ipynb               # Archivo ipynb que contiene el código del notebook
 ```
 
+** Los datos para el dataset son tomados de [Grocery Store Dataset](https://github.com/marcusklasson/GroceryStoreDataset) **
