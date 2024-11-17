@@ -24,6 +24,15 @@ El notebook desarrollado se denomina `taller-002.ipynb`
 - `pip install pandas`
 - `pip install numpy`
 
-**Instrucciones de ejecución:**  
-...
+**Estructura del Proyecto:**  
+El presente proyecto tiene la siguiente esctructura
+
+```plaintext
+taller-002/
+├── dataset/          # Información, datos de las imágenes utilizadas
+├── doc/              # Documentación del proyecto, archivos PDF
+├── .gitignore        # Archivo para excluir documentos y/o carpetas de Git
+├── README.md         # Descripción del proyecto
+└── taller-002.ipynb  # Archivo ipynb que contiene el código del notebook
+```
 
